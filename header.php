@@ -29,7 +29,7 @@
 					<ul class="dropdown-menu">
 						<li class="dropdown-menu__item">
                        
-							<a href="catalog.php?men" name="men" class="dropdown-menu__link">Мужская</a>
+							<a href="catalog.php" name="men" class="dropdown-menu__link">Мужская</a>
                             
                             
                             
